@@ -154,7 +154,7 @@ sudo chmod 666 /var/run/docker.sock
 sudo systemctl restart docker
 ======================================================================================================================================
 
---- INSTALL JENKINS ---
+--- INSTALL JENKINS dsdsdsdds---
 
 sudo apt install openjdk-11-jre
 
