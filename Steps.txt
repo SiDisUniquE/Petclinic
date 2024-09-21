@@ -172,7 +172,7 @@ sudo systemctl status jenkins
 
 
 
----TRIVY INSTALLATION STEPS---
+---TRIVY INSTALLATION STEPS this is temporary---
 
 sudo apt-get install wget apt-transport-https gnupg lsb-release
 
